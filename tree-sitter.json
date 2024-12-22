@@ -22,7 +22,7 @@
       }
     ],
     "links": {
-      "repository": "https://github.com/tree-sitter/tree-sitter-blox"
+      "repository": "https://github.com/michaelmelanson/tree-sitter-blox"
     }
   },
   "bindings": {
